@@ -33,7 +33,7 @@
 
 #### Linkedin :
 
-- [ ] Création de compte Linkedin (si pas de compte)
+- [x] Création de compte Linkedin (si pas de compte)
 - [ ] Customiser son profile Linkedin pour "devenir la plus belle du village" :
     - [x] Photo / Bannière
     - [x] Titre
