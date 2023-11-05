@@ -9,7 +9,7 @@
   - [x] Intégration dans son editeur / workflow
   - [x] Faire le tour du propriétaire
 - [ ] `.gitignore` global ou pas ?
-- [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
+- [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
     - [ ] À quoi sert la commande `git fetch —prune`
     - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git : 
