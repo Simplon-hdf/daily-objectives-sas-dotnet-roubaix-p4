@@ -12,9 +12,9 @@
 - [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
     - [x] À quoi sert la commande `git fetch —prune`
     - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
-- [ ] Configurer son git : 
+- [x] Configurer son git : 
   - [ ] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
+  - [ghx] Différenciateur (par ex : Delta) 
   - [ ] Aliases 
   - [ ] Comprendre la différence entre config locale, globale et système
 
@@ -22,18 +22,17 @@
 
 - [ ] Découverte de Github CLI
   - [x] Installation et connexion
-  - [ ] Faire le tour du propriétaire
+  - [x] Faire le tour du propriétaire
   - [ ] Intégration de `gh` dans son workflow
-  - [ ] Finalisation de son profile Github
+  - [x] Finalisation de son profile Github
 
 ### NodeJS
 
-- [ ] Installation de NodeJS
-- [ ] Découverte de "NPM", "Yarn" et "PNPM"
+- [x] Installation de NodeJS
+- [x] Découverte de "NPM", "Yarn" et "PNPM"
   - [ ] Comprendre les différences entre les package managers et en choisir un
-  - [ ] Savoir faire les commandes de bases :
+  - [x] Savoir faire les commandes de bases :
     - [ ] Installer un package (local et global)
     - [ ] Désinstaller un package (local et global)
     - [ ] Mettre jour les packages (local et global) et le package manager
-
-    oui
+**
