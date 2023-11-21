@@ -76,4 +76,10 @@
     - [ ] Installer un package (local et global)
     - [ ] Désinstaller un package (local et global)
     - [ ] Mettre jour les packages (local et global) et le package manager
+<<<<<<< HEAD
 >>>>>>> 69764ac (docs : add day 9 and 10)
+||||||| parent of d955812 (t)
+=======
+
+    oui
+>>>>>>> d955812 (t)
