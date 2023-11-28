@@ -4,6 +4,7 @@
 
 ### Javascript :
 
+
 - [x] Comprendre le système de `Garbage Collection` (https://fr.javascript.info/garbage-collection)
   - [x] Comprendre son utilité, les conditions de son déclenchement, sa manipulation
 - [x] Comprendre le fonctionnement des méthodes et du `this` en Javascript (https://fr.javascript.info/object-methods)
@@ -40,3 +41,4 @@
   - [x] `One-to-One`
   - [x] `One-to-Many`
   - [x] `Many-to-Many`
+
