@@ -5,15 +5,15 @@
 
 ### Git
 
-- [ ] Comprendre le fonctionnement des branches dans Git :
-    - [ ] Lister, changer, créer, supprimer des branches
-    - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
-- [ ] Comprendre le merge dans Git
-    - [ ] Comprendre le "fast forward"
-    - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
-- [ ] Comprendre le principe de "Pull Request"
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-- [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
+- [x] Comprendre le fonctionnement des branches dans Git :
+    - [x] Lister, changer, créer, supprimer des branches
+    - [x] Quelle est la différence entre `Git switch` et `Git checkout`
+- [x] Comprendre le merge dans Git
+    - [x] Comprendre le "fast forward"
+    - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
+- [x] Comprendre le principe de "Pull Request"
+- [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+- [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
